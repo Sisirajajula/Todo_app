@@ -1,2 +1,2 @@
-Work
 Learn consistency 
+Master python

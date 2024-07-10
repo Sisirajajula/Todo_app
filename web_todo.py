@@ -32,4 +32,3 @@ st.text_input(label="Add a new todo", placeholder="Add new todo",
 # st.session_state : keeps track of all inputs
 # from user in the form of dictionary
 
-st.session_state
